@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "75WjjJx+Yzxu96vMpeNMkTc5h6BD/9qzo2EgjWjJAtb5SfHjrHbMJEhB/gPEawR/JTmvvyabbZ5AHXwKroOq5g==",
+  "success": true,
+  "projectFilePath": "E:\\email\\eMailWorker\\eMailWorker\\eMailWorker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrey_2020_07\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Andrey_2020_07\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Andrey_2020_07\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
