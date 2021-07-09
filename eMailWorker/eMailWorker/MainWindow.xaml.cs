@@ -23,6 +23,7 @@ namespace eMailWorker
         public MainWindow()
         {
             InitializeComponent();
+		//добавил в новой ветке FormHelp
         }
     }
 }
